@@ -1,0 +1,20 @@
+# 시험·리허설 산출물(공개 레포에 올리지 않음)
+ENVIRONMENT.md
+ENVIRONMENT*.md
+notes/
+notes-hx/
+exp/
+logs/
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# OS·편집기
+.DS_Store
+*.swp
