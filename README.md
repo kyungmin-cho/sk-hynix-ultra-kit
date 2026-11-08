@@ -1,3 +1,5 @@
+> Hackathon prototype, no longer maintained. Write-up: [kyungmin-cho/contests](https://github.com/kyungmin-cho/contests/tree/main/2026-11_sk-hynix-ultra-kit)
+
 # ultra-kit
 
 Codex 에이전트용 개인 작업 하네스(Cofa Probe 환경 대상). **비공식**이며 주최 측 자료가 아니다. 사람이 읽는 퀵스타트다.
